@@ -1,0 +1,2 @@
+simplechat.CThread
+simplechat.Client
